@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 590" role="img" aria-label="IELTS examination suite">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2540"/><stop offset=".55" stop-color="#01cfe1"/><stop offset="1" stop-color="#06182a"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="34"/></filter></defs>
+<rect width="800" height="590" fill="url(#g)"/><circle cx="680" cy="90" r="150" fill="#fff" opacity=".12" filter="url(#b)"/><circle cx="120" cy="510" r="170" fill="#fff" opacity=".08" filter="url(#b)"/>
+<path d="M-40 470 C150 280 250 620 430 390 S720 220 840 350 L840 630 L-40 630Z" fill="#fff" opacity=".08"/>
+<g fill="none" stroke="#fff" opacity=".3"><circle cx="620" cy="390" r="120"/><circle cx="620" cy="390" r="82"/><circle cx="620" cy="390" r="44"/></g>
+<rect x="48" y="48" width="704" height="494" rx="42" fill="#06182a" opacity=".12" stroke="#fff" stroke-opacity=".18"/>
+<text x="82" y="118" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5">LANGUAGE</text>
+<text x="82" y="290" fill="#fff" font-family="Arial,sans-serif" font-size="112" font-weight="900" letter-spacing="-5">✦</text>
+<text x="82" y="380" fill="#fff" font-family="Arial,sans-serif" font-size="62" font-weight="900">IELTS</text>
+<text x="82" y="442" fill="#fff" opacity=".82" font-family="Arial,sans-serif" font-size="22" font-weight="600">LINGOFI • GLOBAL EXAMINATION SUITE</text>
+</svg>

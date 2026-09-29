@@ -1,0 +1,10 @@
+{
+  "name": "LingoFi",
+  "description": "Multilingual global platform for IELTS Academic 80-test preparation and Standardized Cognitive IQ Testing with Mensa scale calibration, instant cryptographic certificate issuance, and voice-assisted reading, writing, and speaking across 11 world languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
